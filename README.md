@@ -4,7 +4,7 @@ Hi 👋 My name is Sky
 Full Stack Web Developer
 ------------------------
 
-*   🌍  I'm based in Greater Boston Area
+*   🌍  I'm based in the Greater Boston Area
 *   🧠  I'm learning new React hooks and Typescript
 *   🤝  I'm open to collaborating on anything React related
 *   ⚡  Currently looking for a full-time web development position
