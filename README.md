@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 *   🌍  I'm based in the Greater Boston Area
-*   🧠  I'm learning new React hooks and Typescript
+*   🧠  I'm learning new React hooks, Typescript and Python
 *   🤝  I'm open to collaborating on anything React related
 *   ⚡  Currently looking for a full-time web development position
 
